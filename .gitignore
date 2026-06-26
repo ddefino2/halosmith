@@ -1,0 +1,14 @@
+._*
+.DS_Store
+
+.build/
+dist/
+*.app/
+
+APP and PC.rar
+analysis/manufacturer/
+test-encoding/
+
+large-fan-photos/*.JPG
+large-fan-photos/*.jpg
+large-fan-photos/*large-42cm.bin
