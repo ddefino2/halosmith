@@ -9,6 +9,6 @@ A native macOS app for preparing video for holographic fan displays.
 
 ## Run
 
-Use the **Run** action in Codex or run `./script/build_and_run.sh`.
+Run `./script/build_and_run.sh`.
 
 Requires macOS 14 or later and matching Apple Command Line Tools.
